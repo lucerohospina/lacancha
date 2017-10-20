@@ -1,0 +1,44 @@
+.first {
+    background: #8cb27c;
+    height: auto;
+    width: 760px;
+    float: left;
+    position: relative;
+}
+
+.second {
+    background: #8cb27c;
+    height: 380px;
+    margin: 15px;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+
+.circle {
+    background: #8cb27c;
+    height: 145px;
+    width: 145px;
+    margin: 115px 275px;
+    border: 5px solid white;
+    border-radius: 100px;
+    position: absolute;
+}
+
+.left {
+    background: #8cb27c;
+    height: 145px;
+    width: 83px;
+    margin: 115px -5px;
+    border: 5px solid white;
+    position: absolute;
+}
+
+.right {
+    background: #8cb27c;
+    height: 145px;
+    width: 83px;
+    margin: 115px 0px 0px 632px;
+    border: 5px solid white;
+    position: absolute;
+}
+
