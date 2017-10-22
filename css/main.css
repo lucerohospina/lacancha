@@ -42,3 +42,21 @@
     position: absolute;
 }
 
+.one {
+    width: 20px;
+    padding: 122px 0px 100px 72px;
+    position: absolute;
+}
+
+.two {
+    width: 20px;
+    padding: 35px 0px 100px 375px;
+    position: absolute;
+}
+
+.three {
+    width: 20px;
+    padding: 225px 0px 100px 608px;
+    position: absolute;
+}
+
